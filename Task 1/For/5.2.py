@@ -1,5 +1,3 @@
-Task 5.2
-
 total_jumping_jacks = 100
 jumping_jacks_per_set = 10
 jumping_jacks_completed = 0

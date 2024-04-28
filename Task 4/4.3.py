@@ -1,4 +1,4 @@
-# Define a dictionary mapping cities to their respective countries
+# Define a dictionary mapping cities to their respective countries 
 city_country_map = {"Mumbai": "India","Chennai": "India","Sydney": "Australia","Dubai": "UAE"}
 
 # Get input from the user

@@ -1,5 +1,3 @@
-Task 4.2
-
 Australia = ["Sydney", "Melbourne", "Brisbane", "Perth"]
 UAE = ["Dubai", "Abu Dhabi", "Sharjah", "Ajman"]
 India = ["Mumbai", "Bangalore", "Chennai", "Delhi"]

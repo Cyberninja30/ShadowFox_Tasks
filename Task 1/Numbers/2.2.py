@@ -1,5 +1,3 @@
-Task 2.2
-
 radius = 84
 pi = 3.14
 water_per_square_meter = 1.4

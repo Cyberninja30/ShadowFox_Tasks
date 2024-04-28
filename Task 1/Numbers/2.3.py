@@ -1,5 +1,3 @@
-Task 2.3
-
 distance = 490
 time_minutes = 7 
 
